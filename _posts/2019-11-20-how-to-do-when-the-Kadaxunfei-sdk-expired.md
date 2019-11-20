@@ -10,6 +10,7 @@ tags:
 so far, you can only use the Kadaxunfei SDK only for one month. so what if the SDK expired after on  month, you have to download it again,and build your project form the scrath,it is ok if the project is small,but it will annoy you a lot and take your more time to rebuild it when the project is big.Finally,i find the solution that can make you quickly to rebuild it rather than from the biginning.Let us jump in..
 
 `take my project for example`
+
 ***SETP 1***
 
 reapply the application in <a href="https://www.xfyun.cn/">offical site</a>.
