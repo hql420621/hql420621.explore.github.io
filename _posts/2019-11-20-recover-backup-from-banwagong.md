@@ -1,5 +1,6 @@
 ---
 title: recover backup from banwagong
+image："/assets/images/banwagong.png"
 tags:
   - website
   - vps
