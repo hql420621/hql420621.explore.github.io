@@ -1,6 +1,6 @@
 ---
 header:
-  image: /assets/images/banwagong.png
+  image: /assets/images/banwagong.jpg
 title: recover backup from banwagong
 tags:
   - website
