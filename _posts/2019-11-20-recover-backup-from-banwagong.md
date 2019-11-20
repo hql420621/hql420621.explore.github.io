@@ -6,9 +6,9 @@ tags:
   - website
   - vps
 ---
-<p>
+
 <h2> overview</h2>
-i've ever built my own blog by Wordpress and VPS folowing the the tutorial <a href="https://www.seoimo.com/wordpress-vps/">how to build a website with wordpress and vps</a>.but it was easilly to being attacked by hacker.enventually my host suspended,it only recover until next year. the situation like following: </p>
+i've ever built my own blog by Wordpress and VPS folowing the the tutorial <a href="https://www.seoimo.com/wordpress-vps/">how to build a website with wordpress and vps</a>.but it was easilly to being attacked by hacker.enventually my host suspended,it only recover until next year. the situation like following:
 
 ![vps erro](/assets/images/vps.jpg)
 
