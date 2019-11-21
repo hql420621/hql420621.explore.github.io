@@ -26,19 +26,17 @@ download the .tar.gz snapshot file from vps. and use the `scp` command to copy t
 
 <li>STEP 2</li>
 
-check out which dev is unoccupied by the comand `losetup -f`.you will find some unoccupied dev like :
+check out which dev is unoccupied by the comand <br>`losetup -f`.<br>you will find some unoccupied dev like :
 `/dev/loop18`.
 
 <li>STEP 3</li>
 
 Create device maps from partition tables by
 
-`losetup /dev/loop18 vm-1234xxx.disk`
-`Kpartx -av /dev/loop18`
+`losetup /dev/loop18 vm-1234xxx.disk`<br>`Kpartx -av /dev/loop18`
 
 you will get the output:<br>
-`add map loop18p1`
-`add map loop18p2`
+`add map loop18p1`<br>`add map loop18p2`
 
 <li>STEP 4</li>
 
