@@ -18,7 +18,7 @@ reapply the application in <a href="https://www.xfyun.cn/">offical site</a>.
 
 ![application](/assets/images/application.jpg)
 
-and download the <a href=https://www.xfyun.cn/sdk/dispatcher>offine-commanf-SDK</a>.
+and download the <a href="https://www.xfyun.cn/sdk/dispatcher">offine-command-SDK</a>.
 
 ![offline_sdk](/assets/images/offine_sdk.jpg)
 
