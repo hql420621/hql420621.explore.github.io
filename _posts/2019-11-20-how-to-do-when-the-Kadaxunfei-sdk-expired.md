@@ -2,6 +2,7 @@
 title: how to do when the Kadaxunfei SDK expired
 header:
   image: /assets/images/speach_recognize.jpg
+  teaser: /assets/images/speach_recognize.jpg
 tags:
   - SDK
 ---
