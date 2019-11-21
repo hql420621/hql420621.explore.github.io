@@ -31,7 +31,12 @@ check out which dev is unoccupied by the comand `losetup -f`.you will find some 
 
 <li>STEP 3</li>
 
-Create device maps from partition tables by `Kpartx -av /dev/loop18`,you will get the output:<br>
+Create device maps from partition tables by
+
+`losetup /dev/loop18 vm-1234xxx.disk`
+`Kpartx -av /dev/loop18`
+
+you will get the output:<br>
 `add map loop18p1`
 `add map loop18p2`
 
