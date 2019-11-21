@@ -2,6 +2,7 @@
 title: recover backup from banwagong
 header:
   image: /assets/images/banwagong.jpg
+  teaser: /assets/images/banwagong.jpg
 tags:
   - website
   - vps
