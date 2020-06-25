@@ -19,6 +19,12 @@ tags:
 
 
 #### STEP 1
+use `git --versin` see if you have install the git
+use `git clone **your own reposority URL**`
+jump into your clone folder in local
+use `git init`
+use `git remote add origin "your repository URL"`
+
 
 open the vamvare -> `option`->`share folder` like following:
 ![vm](/assets/images/vm.jpg)
@@ -39,3 +45,5 @@ use
 `git commit -m "something"`
 
 `git push origin master`
+
+then put your username and user password
