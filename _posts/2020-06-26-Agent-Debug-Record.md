@@ -1,8 +1,8 @@
 ---
 header:
   image: /assets/images/perl.png
-  teaser: /assets/images/perl.jpg
-title: The regular expression understanding 
+  teaser: /assets/images/perl.png
+title: how to solve Can't locate Sys/Syslog.pm in @INC
 tags:
   - Perl
   - linux
