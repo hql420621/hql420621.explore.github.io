@@ -19,10 +19,10 @@ tags:
 
 
 #### STEP 1
-use `git --versin` see if you have install the git
-use `git clone **your own reposority URL**`
-jump into your clone folder in local
-use `git init`
+use `git --versin` see if you have install the git<br>
+use `git clone **your own reposority URL**`<br>
+jump into your clone folder in local <br>
+use `git init`<br>
 use `git remote add origin "your repository URL"`
 
 
