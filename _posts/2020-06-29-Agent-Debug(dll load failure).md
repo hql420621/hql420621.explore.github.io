@@ -26,6 +26,7 @@ we can see there is somthing wrong with the `pcre.dll` on which my `dirlog-cl.dl
 ![dependn](/assets/images/dependn.jpg)
 
  so, i download the `pcre.dll` and put it under the debug folder. and use the `depend.exe` to check the `dirlog-cl.dll` again,it shows as below
+ 
  ![dependy](/assets/images/dependy.png)
 
 it make sense!! i load the `dirlog-cl.dll`,but it miss the `pcre.dll`,that is why the specified module could not be found.
