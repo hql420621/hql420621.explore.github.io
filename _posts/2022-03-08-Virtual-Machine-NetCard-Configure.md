@@ -1,7 +1,7 @@
 ---
 header:
-  image:/assets/images/image-20220308180127225.png
-  teaser:/assets/images/image-20220308180127225.png
+  image: /assets/images/image-20220308180127225.png
+  teaser: /assets/images/image-20220308180127225.png
 title: VMware Network configure
 tags:
   - Tool
@@ -19,13 +19,13 @@ when we build a virtual machine with vmware in local host,i wanna do two thing f
 
     right click the icon in the picture below
 
-  ![image-20220308180127225](images/image-20220308180127225.png)
+  ![image-20220308180127225](/assets/images/image-20220308180127225.png)
 
   + step 2
 
       select the network adpter and choose host only mode
 
-  ![image-20220308180446977](images/image-20220308180446977.png)
+  ![image-20220308180446977](/assets/images/image-20220308180446977.png)
       
 
   + step 3
@@ -38,17 +38,17 @@ when we build a virtual machine with vmware in local host,i wanna do two thing f
     + step 1
   
   right click the icon in the picture below
-    ![image-20220308180127225](images/image-20220308180127225.png)
+    ![image-20220308180127225](/assets/images/image-20220308180127225.png)
   
     + step 2
   
-  add another network adpter![image-20220308182810687](images/image-20220308182810687.png)
+  add another network adpter![image-20220308182810687](/assets/images/image-20220308182810687.png)
 
-  ![image-20220308183946519](images/image-20220308183946519.png)
+  ![image-20220308183946519](/assets/images/image-20220308183946519.png)
 
 + step 3
 
-  ![image-20220308184420276](images/image-20220308184420276.png)
+  ![image-20220308184420276](/assets/images/image-20220308184420276.png)
   + step 4
 
 configure the network file in `/etc/sysconfig/network-scripts/`,and set dynamic ip
