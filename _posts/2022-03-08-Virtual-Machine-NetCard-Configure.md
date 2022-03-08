@@ -1,7 +1,7 @@
 ---
 header:
-  image: /_posts/images/image-20220308180127225.png
-  teaser: /_posts/images/image-20220308180127225.png
+  image: /assets/images/image-20220308180127225.png
+  teaser: /assets/images/image-20220308180127225.png
 title: VMware Network configure
 tags:
   - Tool
